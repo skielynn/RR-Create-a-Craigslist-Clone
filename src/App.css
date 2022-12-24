@@ -48,3 +48,8 @@ img {
   grid-area: sidebar;
   border: 1px solid black;
 }
+
+main {
+  width: 75vw;
+  background-color: lightblue;
+}
